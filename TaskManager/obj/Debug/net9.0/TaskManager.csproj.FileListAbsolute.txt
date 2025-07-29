@@ -154,3 +154,9 @@
 /home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.sourcelink.json
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/AutoMapper.dll
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/FluentValidation.dll
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/FluentValidation.AspNetCore.dll
+/home/shaonsani/RiderProjects/TaskManager/TaskManager/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll

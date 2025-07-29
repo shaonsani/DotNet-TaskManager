@@ -1,4 +1,4 @@
-# TaskManager.Api
+# TaskManager
 
 A minimal Greenfield ASP.NET Core Web API for managing simple tasks.  
 Demonstrates clean architecture, EF Core integration, Swagger docs, and Dockerization.
@@ -25,5 +25,5 @@ Demonstrates clean architecture, EF Core integration, Swagger docs, and Dockeriz
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/your-username/TaskManager.Api.git
-   cd TaskManager.Api
+   git clone https://github.com/shaonsani/TaskManager.git
+   cd TaskManager
